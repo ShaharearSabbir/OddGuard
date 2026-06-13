@@ -43,6 +43,12 @@ Load `dist/` unpacked in Chrome. Iterate by rebuilding and reloading the extensi
 4. Wait for the friction timer, review your current project/goal, then either bypass or go back
 5. Use the popup to add projects, set deadlines, and manage blocked domains
 
+## License
+
+Licensed under the [GNU General Public License v3.0](LICENSE) — see the [LICENSE](LICENSE) file for details.
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation. Any commercial use is prohibited.
+
 ## Author
 
 **Shaharear Sabbir**
